@@ -4,7 +4,7 @@ import { Github, Instagram, Linkedin, Code } from "lucide-react";
 
 // Import assets properly
 import netflixVideo from "../assets/netflix.mp4";
-import uberVideo from "../assets/netflix.mp4";
+import uberVideo from "../assets/netflix1.mp4";
 import tinderVideo from "../assets/Tinder Version 2 - Logo Animation - PW Motion (720p, h264).mp4";
 import internshipCert from "../assets/intership.PNG";
 import hackathonCert from "../assets/hackthon.JPG";
