@@ -70,10 +70,10 @@ export default function Portfolio() {
 
   {/* Netflix Clone */}
   <div className="bg-gray-900 p-6 rounded-2xl border border-gray-700 relative transform transition duration-300 hover:scale-105 hover:shadow-lg">
-    <h3 className="text-xl font-semibold text-white">Netflix Clone</h3>
+    <h3 className="text-xl font-semibold text-white">TopTuitions — Founder & Full Stack Developer
+</h3>
     <p className="text-sm text-gray-400 mb-3">
-      A fully functional **Netflix-inspired** streaming platform with a sleek UI, smooth animations, and interactive user experience. Built using **HTML, CSS, and JavaScript**.
-    </p>
+Designed and developed a platform that helps students find, rate, and review tuition centers based on location. Implemented features like user authentication, review posting with user identity, and interactive map-based search.    </p>
 <video src={netflixVideo} className="rounded-lg w-full" autoPlay loop muted></video>
     <a href="https://sajet4819.github.io/Netflix-Clone/Netflix%20clone%20(html,css,javascript)/index.html">
       <ArrowUpRight className="absolute top-4 right-4 text-red-500 transition-transform duration-200 hover:scale-110" />
